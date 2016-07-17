@@ -15,6 +15,7 @@ cask onyx
 cask pycharm-ce
 cask skype
 
+
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
